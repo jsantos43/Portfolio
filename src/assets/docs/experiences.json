@@ -1,9 +1,21 @@
 [
   {
+    "name": "NodeCraft",
+    "author": "João Santos",
+    "devDate": "January 2025",
+    "link": "https://nodecraft.mipi.com.br/",
+    "texts": [
+      "NodeCraft is a powerful platform for managing Minecraft servers on Linux, featuring a Node.js API and a React-powered web interface. It simplifies server creation and management.",
+      "The intuitive web interface allows users to control server settings, monitor performance, and manage files seamlessly. The platform is designed for efficiency and ease of use.",
+      "With a focus on automation, NodeCraft streamlines the process of running and customizing Minecraft servers, making it accessible to all users.",
+      "This project demonstrates the integration of modern web technologies to create a robust and user-friendly server management solution."
+    ]
+  },
+  {
     "name": "PedePizza",
     "author": "João Santos",
     "devDate": "November 2022",
-    "link": "https://webisk.com.br/pizza/",
+    "link": "https://mipi.com.br/pizza/",
     "texts": [
       "PedePizza is a modern and responsive website for ordering pizzas, built with HTML, CSS, JavaScript, and a Node.js REST API. It’s designed to offer a seamless and intuitive user experience across all devices.",
       "Users can browse a menu of delicious pizzas, customize their orders, and add items to their cart. The website ensures a smooth process from selection to checkout, making it easy to place orders.",
@@ -15,7 +27,7 @@
     "name": "SmartWiki",
     "author": "João Santos",
     "devDate": "March 2023",
-    "link": "https://webisk.com.br/smartwiki/",
+    "link": "https://mipi.com.br/smartwiki/",
     "texts": [
       "SmartWiki is a responsive platform built with HTML, CSS, JavaScript, and Bootstrap, focused on delivering information about smart cities and showcasing smart home products. Its design ensures accessibility across all devices.",
       "Users can explore articles and guides on various topics related to smart cities, learning about innovative technologies and sustainable urban solutions. The platform also features a store with a wide range of smart home products.",
@@ -24,22 +36,10 @@
     ]
   },
   {
-    "name": "NodeCraft",
-    "author": "João Santos",
-    "devDate": "January 2025",
-    "link": "https://webisk.com.br/nodecraft/",
-    "texts": [
-      "NodeCraft is a powerful platform for managing Minecraft servers on Linux, featuring a Node.js API and a React-powered web interface. It simplifies server creation and management.",
-      "The intuitive web interface allows users to control server settings, monitor performance, and manage files seamlessly. The platform is designed for efficiency and ease of use.",
-      "With a focus on automation, NodeCraft streamlines the process of running and customizing Minecraft servers, making it accessible to all users.",
-      "This project demonstrates the integration of modern web technologies to create a robust and user-friendly server management solution."
-    ]
-  },
-  {
     "name": "Snake",
     "author": "João Santos",
     "devDate": "January 2021",
-    "link": "https://webisk.com.br/snake/",
+    "link": "https://mipi.com.br/snake/",
     "texts": [
       "WebSnake is a simple yet engaging Snake game built with HTML, CSS, and JavaScript. As a responsive website, it offers smooth gameplay across devices.",
       "Players control the snake using arrow keys, collecting food to grow and increase their score. The game challenges users to avoid colliding with the snake's own body or the screen edges.",
@@ -51,7 +51,7 @@
     "name": "Culturafro",
     "author": "João Santos",
     "devDate": "September 2024",
-    "link": "https://webisk.com.br/culturafro/",
+    "link": "https://mipi.com.br/culturafro/",
     "texts": [
       "CulturaFro is a responsive website built with HTML, CSS, and JavaScript, dedicated to exploring African culture and its influence in Brazil. Its design ensures accessibility and engagement across all devices.",
       "The platform provides insightful content about African traditions, history, and their contributions to Brazilian society, fostering education and cultural appreciation.",
@@ -63,7 +63,7 @@
     "name": "Phoenix",
     "author": "João Santos",
     "devDate": "April 2023",
-    "link": "https://webisk.com.br/phoenix/",
+    "link": "https://mipi.com.br/phoenix/",
     "texts": [
       "Phoenix is a responsive news website built with HTML, CSS, JavaScript, and Bootstrap, focusing on smart cities in Brazil. It delivers up-to-date information on innovation and urban development.",
       "The platform covers topics like sustainability, technology, infrastructure, and security, aiming to inform and engage readers about advancements in smart city solutions.",

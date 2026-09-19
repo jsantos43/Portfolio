@@ -1,26 +1,26 @@
 [
   {
-    "name": "Pede Pizza",
-    "description": "PedePizza is a sleek and responsive pizza-ordering platform powered by Node.js, Express, and a custom RESTful API. Built with HTML, CSS, and JavaScript, it offers a delightful user experience for browsing menus, managing orders, and customizing your cart. Perfectly designed to work across all devices, PedePizza combines functionality and style for an effortless pizza-ordering experience.",
-    "techList": ["Node.js", "API", "Express", "Html", "Css", "Javascript"],
-    "externalLink": "https://webisk.com.br/pizza",
-    "github": "https://github.com/JoaoSantos2007/PedePizza",
-    "img": "pedepizza.png"
-  },
-  {
     "name": "NodeCraft",
     "description": "A powerful API built with Node.js to create, manage, and control Minecraft servers on Linux. NodeCraft simplifies server setup, editing, and runtime management with a focus on efficiency and automation.",
     "techList": ["Node.js", "Express", "Json", "Sqlite", "Linux"],
-    "externalLink": "https://github.com/JoaoSantos2007/Nodecraft",
-    "github": "https://github.com/JoaoSantos2007/Nodecraft",
-    "img": "nodecraft.jpg"
+    "externalLink": "https://nodecraft.mipi.com.br/",
+    "github": "https://github.com/jsantos43/Nodecraft",
+    "img": "nodecraft.png"
+  },
+  {
+    "name": "Pede Pizza",
+    "description": "PedePizza is a sleek and responsive pizza-ordering platform powered by Node.js, Express, and a custom RESTful API. Built with HTML, CSS, and JavaScript, it offers a delightful user experience for browsing menus, managing orders, and customizing your cart. Perfectly designed to work across all devices, PedePizza combines functionality and style for an effortless pizza-ordering experience.",
+    "techList": ["Node.js", "API", "Express", "Html", "Css", "Javascript"],
+    "externalLink": "https://mipi.com.br/pizza",
+    "github": "https://github.com/jsantos43/PedePizza",
+    "img": "pedepizza.png"
   },
   {
     "name": "SmartWiki",
     "description": "A modern, responsive wiki platform built with HTML, CSS, JavaScript, and Bootstrap, focusing on smart cities and smart home products. Explore insightful articles, guides, and a dedicated store for smart home devices. Perfectly optimized for seamless browsing across all devices.",
     "techList": ["Html", "Css", "Javascript", "Bootstrap", "Json"],
-    "externalLink": "https://webisk.com.br/smartwiki/",
-    "github": "https://github.com/JoaoSantos2007/SmartWiki",
+    "externalLink": "https://mipi.com.br/smartwiki/",
+    "github": "https://github.com/jsantos43/SmartWiki",
     "img": "smartwiki.png"
   }
 ]
