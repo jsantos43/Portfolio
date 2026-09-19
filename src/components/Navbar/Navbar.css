@@ -1,4 +1,4 @@
-.navbar{
+.navbar {
   width: 100%;
   height: var(--nav-height);
   display: flex;
@@ -12,11 +12,11 @@
   user-select: auto !important;
 }
 
-.navbar-hidden{
+.navbar-hidden {
   display: none;
 }
 
-.navbar-scrolled{
+.navbar-scrolled {
   -webkit-box-pack: justify;
   justify-content: space-between;
   -webkit-box-align: center;
@@ -29,7 +29,7 @@
   box-shadow: 0 10px 30px -10px var(--shadow);
 }
 
-.navbar__logo{
+.navbar__logo {
   font-size: 42px;
   font-weight: bold;
   font-family: "Dela Gothic", sans-serif;
@@ -38,12 +38,12 @@
   text-decoration: none;
 }
 
-.navbar__logo p{
+.navbar__logo p {
   color: var(--theme);
   text-decoration: none;
 }
 
-.navbar__content{
+.navbar__content {
   display: flex;
   padding: 0px 50px;
   align-items: center;
@@ -51,24 +51,24 @@
   justify-content: space-between;
 }
 
-.navbar__links{
+.navbar__links {
   display: flex;
   align-items: center;
   font-family: var(--font-mono);
 }
 
-.navbar__list{
+.navbar__list {
   display: flex;
   align-items: center;
   justify-content: space-between;
 }
 
-.navbar__item{
+.navbar__item {
   margin: 0px 5px;
   counter-increment: item 1;
 }
 
-.navbar__link{
+.navbar__link {
   font-size: 15px;
   color: var(--font-color-medium);
   padding: 10px;
@@ -77,7 +77,7 @@
   cursor: pointer;
 }
 
-.navbar__link:hover{
+.navbar__link:hover {
   color: var(--theme);
 }
 
@@ -88,16 +88,16 @@
   text-align: right;
 }
 
-.navbar .button{
+.navbar .button {
   padding: 0.75rem 1rem;
   margin-left: 15px;
 }
 
-.navbar__menu{
+.navbar__menu {
   display: none;
 }
 
-.navbar__menu-btn{
+.navbar__menu-btn {
   color: var(--theme);
   background: transparent;
   border: none;
@@ -107,14 +107,14 @@
   z-index: 110;
 }
 
-.navbar__menu-btn svg{
+.navbar__menu-btn svg {
   width: 100%;
   height: 100%;
   color: var(--theme);
 }
 
 @media screen and (max-width: 1080px) {
-  .navbar__content{
+  .navbar__content {
     padding: 0px 40px;
   }
 }
@@ -217,10 +217,9 @@
   padding: 3px 20px 20px;
 }
 
-.navbar__aside .button{
+.navbar__aside .button {
   font-size: var(--fz-sm);
   padding: 18px 50px;
   margin: 10% auto 0px;
   width: max-content;
 }
-

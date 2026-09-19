@@ -1,10 +1,10 @@
-.experience{
+.experience {
   margin: 0px auto;
   padding: 100px 0px;
   max-width: 715px;
 }
 
-.experience__inner{
+.experience__inner {
   display: flex;
   min-height: 340px;
 }
@@ -17,7 +17,7 @@
 
 @media (max-width: 768px) {
   .experience {
-      padding: 80px 0px;
+    padding: 80px 0px;
   }
 }
 
@@ -27,11 +27,11 @@
     padding: 0px;
   }
 
-  .experience{
+  .experience {
     padding: 60px 0px;
   }
 
-  .experience__texts{
+  .experience__texts {
     margin-left: 0px;
   }
 }

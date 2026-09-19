@@ -34,13 +34,13 @@
   transition: var(--transition);
 }
 
-.emailBar__link:hover{
+.emailBar__link:hover {
   color: var(--theme);
   transform: translateY(-3px);
 }
 
 @media screen and (max-width: 1080px) {
-  .emailBar{
+  .emailBar {
     right: 20px;
   }
 }

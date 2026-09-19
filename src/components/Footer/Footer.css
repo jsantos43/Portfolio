@@ -55,7 +55,7 @@
   fill: none;
 }
 
-.footer__social{
+.footer__social {
   display: none;
 }
 
@@ -80,7 +80,7 @@
   padding: 10px;
 }
 
-.footer__social-element svg{
+.footer__social-element svg {
   width: 20px;
   height: 20px;
 }

@@ -19,12 +19,12 @@
 }
 
 .socialBar__list::after {
-    content: "";
-    display: block;
-    width: 1px;
-    height: 90px;
-    margin: 0px auto;
-    background-color: var(--font-color-medium);
+  content: "";
+  display: block;
+  width: 1px;
+  height: 90px;
+  margin: 0px auto;
+  background-color: var(--font-color-medium);
 }
 
 .socialBar__element {
@@ -50,14 +50,14 @@
   color: var(--font-color-medium);
 }
 
-.socialBar__link:hover svg{
+.socialBar__link:hover svg {
   color: var(--theme);
   transform: translateY(-3px);
 }
 
 .socialBar__link svg.feather {
-    fill: none;
-    vertical-align: middle;
+  fill: none;
+  vertical-align: middle;
 }
 
 .socialBar__link svg:not(:root) {

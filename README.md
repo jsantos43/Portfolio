@@ -32,7 +32,7 @@ Para executar o projeto localmente, siga os passos abaixo:
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/JoaoSantos2007/portfolio.git
+   git clone https://github.com/jsantos43/portfolio.git
    ```
 
 2. Acesse o diretório do projeto:
@@ -76,9 +76,8 @@ Caso tenha interesse em saber mais ou colaborar, entre em contato:
 
 - **E-mail**: joao.santos.2007sp@gmail.com
 - **LinkedIn**: [Seu Perfil](https://www.linkedin.com/in/joaosantos2007/)
-- **GitHub**: [Seu Repositório](https://github.com/JoaoSantos2007)
+- **GitHub**: [Seu Repositório](https://github.com/jsantos43)
 
 ---
 
 Obrigado por visitar meu portfólio! Espero que goste. :smile:
-

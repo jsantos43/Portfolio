@@ -1,8 +1,8 @@
-.TableElement:hover{
+.TableElement:hover {
   background-color: var(--bg-color-light);
 }
 
-.TableElement__year{
+.TableElement__year {
   color: var(--theme);
   font-family: var(--font-mono);
   font-size: var(--fz-md);
@@ -10,7 +10,7 @@
   padding-right: 20px;
 }
 
-.TableElement__title{
+.TableElement__title {
   padding-top: 15px;
   padding-right: 20px;
   color: var(--lightest-slate);
@@ -19,26 +19,26 @@
   line-height: 1.25;
 }
 
-.TableElement__school{
+.TableElement__school {
   font-size: var(--fz-lg);
   white-space: nowrap;
 }
 
-.TableElement__links{
+.TableElement__links {
   max-width: 100px;
   display: block;
 }
 
-.TableElement__externalLink{
+.TableElement__externalLink {
   text-decoration: none;
   color: inherit;
 }
 
-.TableElement__externalLink:hover svg{
+.TableElement__externalLink:hover svg {
   color: var(--theme);
 }
 
-.TableElement__externalLink svg{
+.TableElement__externalLink svg {
   width: 20px;
   height: 20px;
 }

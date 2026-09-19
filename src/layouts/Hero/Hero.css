@@ -1,4 +1,4 @@
-.hero{
+.hero {
   display: flex;
   -webkit-box-pack: center;
   justify-content: center;
@@ -12,7 +12,7 @@
   margin: 0px auto;
 }
 
-.hero h1{
+.hero h1 {
   margin: 0px 0px 20px 4px;
   color: var(--theme);
   font-family: var(--font-mono);
@@ -20,13 +20,13 @@
   font-weight: 400;
 }
 
-.hero h2{
+.hero h2 {
   margin: 0px;
   font-size: clamp(40px, 8vw, 80px);
   color: var(--font-color-light);
 }
 
-.hero h3{
+.hero h3 {
   margin-top: 5px;
   color: var(--slate);
   line-height: 0.9;
@@ -34,7 +34,7 @@
   font-weight: 600;
 }
 
-.hero p{
+.hero p {
   margin: 20px 0px 0px;
   max-width: 540px;
   font-family: var(--font-sans);
@@ -50,8 +50,8 @@
 }
 
 @media (max-height: 700px) and (min-width: 700px), (max-width: 360px) {
-  .hero{
-      height: auto;
-      padding-top: var(--nav-height);
+  .hero {
+    height: auto;
+    padding-top: var(--nav-height);
   }
 }

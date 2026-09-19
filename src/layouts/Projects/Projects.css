@@ -12,7 +12,10 @@
   visibility: visible;
   opacity: 1;
   transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
-  transition: all, opacity 0.5s cubic-bezier(0.645, 0.045, 0.355, 1) 0.2s, transform 0.5s cubic-bezier(0.645, 0.045, 0.355, 1) 0.2s;
+  transition:
+    all,
+    opacity 0.5s cubic-bezier(0.645, 0.045, 0.355, 1) 0.2s,
+    transform 0.5s cubic-bezier(0.645, 0.045, 0.355, 1) 0.2s;
   font-size: clamp(24px, 5vw, var(--fz-heading));
   margin: 0px 0px 10px;
   font-weight: 600;
@@ -37,7 +40,7 @@
 
 @media (max-width: 768px) {
   .projects {
-      padding: 80px 0px;
+    padding: 80px 0px;
   }
 }
 
