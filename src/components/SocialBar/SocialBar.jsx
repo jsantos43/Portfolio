@@ -11,7 +11,7 @@ const SocialBar = () => {
         <li className="socialBar__element">
           <a
             className="socialBar__link"
-            href="https://github.com/JoaoSantos2007"
+            href="https://github.com/jsantos43"
             aria-label="GitHub"
             target="_blank"
             rel="noreferrer"
