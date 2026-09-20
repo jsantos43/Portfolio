@@ -1,24 +1,24 @@
 [
   {
     "name": "NodeCraft",
-    "description": "A powerful API built with Node.js to create, manage, and control Minecraft servers on Linux. NodeCraft simplifies server setup, editing, and runtime management with a focus on efficiency and automation.",
-    "techList": ["Node.js", "Express", "Json", "Sqlite", "Linux"],
+    "description": "A self-hosted, distributed platform for managing multiplayer game servers across a fleet of Docker-powered workers. Its full-stack control panel brings together real-time consoles, file management, granular permissions, monitoring, and automated S3-compatible backups.",
+    "techList": ["Node.js", "React", "Express", "Docker", "Socket.io", "MySQL", "S3"],
     "externalLink": "https://nodecraft.mipi.com.br/",
     "github": "https://github.com/jsantos43/Nodecraft",
     "img": "nodecraft.png"
   },
   {
     "name": "Pede Pizza",
-    "description": "PedePizza is a sleek and responsive pizza-ordering platform powered by Node.js, Express, and a custom RESTful API. Built with HTML, CSS, and JavaScript, it offers a delightful user experience for browsing menus, managing orders, and customizing your cart. Perfectly designed to work across all devices, PedePizza combines functionality and style for an effortless pizza-ordering experience.",
-    "techList": ["Node.js", "API", "Express", "Html", "Css", "Javascript"],
+    "description": "A responsive pizza-delivery platform where users can browse the menu, customise orders, and manage a live shopping cart. Built with vanilla JavaScript and a Node.js/Express REST API, it delivers a streamlined ordering experience across devices.",
+    "techList": ["JavaScript", "Node.js", "Express", "MongoDB", "HTML", "CSS"],
     "externalLink": "https://mipi.com.br/pizza",
     "github": "https://github.com/jsantos43/PedePizza",
     "img": "pedepizza.png"
   },
   {
     "name": "SmartWiki",
-    "description": "A modern, responsive wiki platform built with HTML, CSS, JavaScript, and Bootstrap, focusing on smart cities and smart home products. Explore insightful articles, guides, and a dedicated store for smart home devices. Perfectly optimized for seamless browsing across all devices.",
-    "techList": ["Html", "Css", "Javascript", "Bootstrap", "Json"],
+    "description": "A responsive content and commerce platform exploring smart-city innovation and connected-home technology. It combines articles and guides with product discovery, search, wishlists, and a streamlined shopping experience, built with JavaScript and Bootstrap.",
+    "techList": ["JavaScript", "Bootstrap", "HTML", "CSS", "JSON"],
     "externalLink": "https://mipi.com.br/smartwiki/",
     "github": "https://github.com/jsantos43/SmartWiki",
     "img": "smartwiki.png"

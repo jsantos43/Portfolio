@@ -29,6 +29,7 @@
     "devDate": "January 2021",
     "link": "https://mipi.com.br/snake/",
     "texts": [
+      "As one of my first HTML projects, WebSnake represents an early stage of my journey into web development and helped me build a strong foundation in frontend programming and JavaScript.",
       "WebSnake is a classic arcade Snake game reimagined for the browser, built entirely with vanilla HTML, CSS, and JavaScript, ensuring smooth performance across devices.",
       "The custom game engine features real-time collision detection, dynamic growth mechanics, and application state management, providing players with an engaging and nostalgic experience.",
       "An intuitive grid-based movement system and real-time score tracking were implemented to challenge users as the gameplay speed progressively increases.",
@@ -53,10 +54,11 @@
     "devDate": "September 2024",
     "link": "https://mipi.com.br/culturafro/",
     "texts": [
-      "CulturaFro is a responsive website built with HTML, CSS, and JavaScript, dedicated to exploring African culture and its influence in Brazil. Its design ensures accessibility and engagement across all devices.",
-      "The platform provides insightful content about African traditions, history, and their contributions to Brazilian society, fostering education and cultural appreciation.",
-      "With a clean and user-friendly interface, CulturaFro offers an enriching experience for users to learn and connect with this vibrant cultural heritage.",
-      "This project highlights the power of web technologies to promote cultural awareness and celebrate diversity."
+      "CulturaFro is a responsive website developed with HTML, CSS, and JavaScript, created for a group of friends as part of a high school project focused on African culture and its influence on Brazilian society.",
+      "I designed and developed the website based on the project's educational goals, transforming their concept into an accessible and engaging digital experience.",
+      "The platform explores topics related to African traditions, history, cultural heritage, and their contributions to Brazilian society, encouraging users to learn more about this important part of Brazil's cultural identity.",
+      "The website features a clean and intuitive interface designed to provide a consistent experience across different devices and make the content easy to navigate and explore.",
+      "CulturaFro was an early opportunity for me to develop a website around a real-world brief, strengthening my frontend development skills while demonstrating how web technologies can be used to communicate ideas and promote cultural awareness."
     ]
   },
   {
@@ -65,10 +67,11 @@
     "devDate": "April 2023",
     "link": "https://mipi.com.br/phoenix/",
     "texts": [
-      "Phoenix is a responsive news website built with HTML, CSS, JavaScript, and Bootstrap, focusing on smart cities in Brazil. It delivers up-to-date information on innovation and urban development.",
-      "The platform covers topics like sustainability, technology, infrastructure, and security, aiming to inform and engage readers about advancements in smart city solutions.",
-      "With a modern design and intuitive navigation, Phoenix ensures a seamless experience for users across all devices, making it easy to explore articles and updates.",
-      "This project combines technology and journalism to raise awareness about the future of urban living in Brazil."
+      "Phoenix is a responsive news website developed with HTML, CSS, JavaScript, and Bootstrap, created for a group of friends as part of a middle school project focused on smart cities in Brazil.",
+      "I designed and developed the website based on their project concept, turning their research and ideas into a structured digital news platform.",
+      "The platform covers topics such as sustainability, technology, infrastructure, and security, presenting information about innovations and developments related to smart cities in Brazil.",
+      "Built with a responsive and intuitive interface, Phoenix provides a consistent browsing experience across different devices, making it easy for users to navigate through articles and explore the content.",
+      "This project gave me an opportunity to develop a complete website around an external project brief, further strengthening my frontend development skills and my ability to translate ideas and requirements into functional digital experiences."
     ]
   }
 ]
