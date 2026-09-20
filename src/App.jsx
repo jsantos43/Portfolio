@@ -4,6 +4,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Navbar from "./components/Navbar/Navbar.jsx";
 import Main from "./pages/Main/Main.jsx";
 import Achievements from "./pages/Achievements/Achievements.jsx";
+import NotFound from "./pages/NotFound/NotFound.jsx";
 import SocialBar from "./components/SocialBar/SocialBar.jsx";
 import EmailBar from "./components/EmailBar/EmailBar.jsx";
 import Footer from "./components/Footer/Footer.jsx";
@@ -34,6 +35,7 @@ function App() {
             path="/achievements"
             element={<Achievements menuMode={menuMode} />}
           />
+          <Route path="*" element={<NotFound />} />
         </Routes>
 
         <Footer />
