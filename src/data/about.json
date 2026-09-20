@@ -1,10 +1,21 @@
 {
   "paragraphs": [
-    "Hello! My name is João Pedro Tomaz dos Santos, and I’m passionate about creating innovative solutions with technology. My journey into programming began in late 2020 when I decided to explore the world of code on my own. As a self-taught developer, I’ve built my skills by diving into a variety of technologies and projects.",
-    "Starting with programming logic, I quickly moved on to learning API development with Node.js, building IoT projects with C++ and Arduino, and creating websites using HTML, CSS, and JavaScript. Over time, I expanded my knowledge into modern frameworks like React and Bootstrap, gaining hands-on experience in frontend and backend development.",
-    "I’m also well-versed in configuring and managing servers like Apache and Nginx, and I’ve worked extensively with Linux systems. My curiosity has led me to explore everything from IoT innovation to building responsive, user-friendly web applications.",
-    "I believe that technology should be accessible and impactful, and I’m constantly striving to learn and grow as a developer."
+    "Hello! My name is João Pedro Tomaz dos Santos, and I’m deeply passionate about computing and software engineering. My programming journey began in late 2020 as a self-taught developer, exploring the world of code out of pure curiosity. Today, I am proud to be pursuing a Bachelor's degree in Computer Science at the prestigious Universidade Federal de São Carlos (UFSCar).",
+    "Combining my hands-on, self-taught experience with the strong theoretical foundation from my university studies, I've developed a highly versatile skill set. I started with fundamental programming logic and quickly expanded into building full-stack web applications using React and Node.js, as well as engineering low-level IoT projects with C++ and Arduino.",
+    "Beyond writing code, I have a solid background in systems administration. I am well-versed in navigating Linux environments and configuring web servers like Apache and Nginx. This end-to-end understanding—from hardware sensors and server infrastructure to modern web interfaces—allows me to architect and deliver complete, robust solutions.",
+    "I believe that technology should be impactful and accessible. Whether I'm tackling a low-level system challenge or designing a seamless user experience, my ultimate goal is to build high-quality software that solves real-world problems."
   ],
-  "recentTechnologiesIntro": "Here are a few technologies I’ve been working with recently:",
-  "skills": ["Web", "Linux", "React", "Arduino", "API", "MongoDB"]
+  "recentTechnologiesIntro": "Here are some of the technologies and tools I've been working with recently, spanning from hardware design to full-stack web development:",
+  "skills": [
+    "C / C++",
+    "JavaScript (ES6+)",
+    "React & Node.js",
+    "Python",
+    "Linux & Nginx",
+    "Docker",
+    "Verilog & FPGA",
+    "Arduino & ESP32",
+    "MySQL & MongoDB",
+    "RESTful APIs"
+  ]
 }
