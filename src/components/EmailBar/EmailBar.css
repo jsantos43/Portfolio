@@ -18,8 +18,11 @@
 }
 
 .emailBar__link {
+  border: 0;
   margin: 20px auto;
   padding: 10px;
+  background: transparent;
+  cursor: pointer;
   font-family: var(--font-mono);
   font-size: var(--fz-xxs);
   line-height: var(--fz-lg);
@@ -37,6 +40,11 @@
 .emailBar__link:hover {
   color: var(--theme);
   transform: translateY(-3px);
+}
+
+.emailBar__link:focus-visible {
+  outline: 2px solid var(--theme);
+  outline-offset: 3px;
 }
 
 @media screen and (max-width: 1080px) {

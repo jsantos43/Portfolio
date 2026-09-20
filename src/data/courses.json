@@ -236,5 +236,12 @@
     "school": "Alura",
     "year": 2023,
     "link": "/certificates/João Pedro Tomaz dos Santos - Curso WebSockets_ implemente comunicações em tempo real com Socket.IO e MongoDB - Alura.pdf"
+  },
+  {
+    "id": 35,
+    "name": "WORKSHOP: Agentes de IA na Pesquisa Científica e Acadêmica",
+    "school": "",
+    "year": 2026,
+    "link": "/certificates/Agentes_IA _Pesquisa_Científica.pdf"
   }
 ]
