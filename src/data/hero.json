@@ -1,7 +1,7 @@
 {
-  "greeting": "Hi, my name is",
-  "name": "João Santos.",
-  "subtitle": "I build things for the web.",
-  "description": "I’m a high school student with a strong passion for technology and self-learning. I’ve taught myself everything I know about computers and programming through online resources, and I’m always eager to learn more.",
-  "buttonText": "View my Achievements!"
+  "greeting": "Hello, my name is",
+  "name": "João Pedro.",
+  "subtitle": "I explore computing from hardware to software.",
+  "description": "I'm a self-taught software developer and an undergraduate student at Universidade Federal de São Carlos (UFSCar). I have a strong passion for technology and enjoy building highly functional digital experiences while continuously expanding my skill set.",
+  "buttonText": "View my Skills!"
 }
