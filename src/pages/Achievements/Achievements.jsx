@@ -1,5 +1,5 @@
 import TableElement from "../../components/TableElement/TableElement.jsx";
-import courses from "../../assets/docs/courses.json";
+import courses from "../../data/courses.json";
 import "./Achievements.css";
 import PropTypes from "prop-types";
 

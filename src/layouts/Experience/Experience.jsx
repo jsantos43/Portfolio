@@ -1,6 +1,6 @@
 import { useState } from "react";
 import "./Experience.css";
-import experiences from "../../assets/docs/experiences.json";
+import experiences from "../../data/experiences.json";
 import ExperiencePanel from "../../components/ExperiencePanel/ExperiencePanel";
 import ExperienceNav from "../../components/ExperienceNav/ExperienceNav";
 

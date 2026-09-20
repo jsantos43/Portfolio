@@ -1,6 +1,6 @@
 import "./About.css";
 import myPhoto from "../../assets/images/me.png";
-import aboutData from "../../assets/docs/about.json";
+import aboutData from "../../data/about.json";
 
 const About = () => {
   return (

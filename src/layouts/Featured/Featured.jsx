@@ -1,6 +1,6 @@
 import "./Featured.css";
 import FeaturedCard from "../../components/FeaturedCard/FeaturedCard";
-import featured from "../../assets/docs/featured.json";
+import featured from "../../data/featured.json";
 
 const Featured = () => {
   return (

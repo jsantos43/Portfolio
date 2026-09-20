@@ -2,7 +2,7 @@ import React from "react";
 import Button from "../../components/Button/Button.jsx";
 import { useNavigate } from "react-router-dom";
 import "./Hero.css";
-import heroData from "../../assets/docs/hero.json";
+import heroData from "../../data/hero.json";
 
 const Hero = () => {
   const navigate = useNavigate();

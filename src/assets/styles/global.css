@@ -15,19 +15,19 @@
   --fz-heading: 32px;
   --nav-height: 100px;
   --nav-scroll-height: 70px;
-  --nav-scroll-color: #1e1e1e98;
+  --nav-scroll-color: rgba(18, 18, 18, 0.85); /* modernized nav bg */
   --tab-height: 42px;
   --tab-width: 120px;
-  --bg-color: #1e1e1e;
-  --bg-color-light: #252526;
-  --theme: #aa1313;
-  --theme-transparency: #aa131385;
-  --theme-dark: #4b1919;
-  --font-color: #b0b0b0;
-  --font-color-medium: #c2c2c2;
-  --font-color-light: #d4d4d4;
+  --bg-color: #121212; /* darker, more modern bg */
+  --bg-color-light: #1e1e1e; /* slight elevation */
+  --theme: #e63946; /* vivid, modern red */
+  --theme-transparency: rgba(230, 57, 70, 0.15); /* smoother transparency */
+  --theme-dark: #a8202b; /* deep red for hover states */
+  --font-color: #a8b2d1; /* cool gray for body */
+  --font-color-medium: #ccd6f6; /* bright cool gray for headings */
+  --font-color-light: #e6f1ff; /* almost white for highlights */
   --slate: #8892b0;
-  --shadow: #010408b3;
+  --shadow: rgba(0, 0, 0, 0.5); /* softer shadow */
   --navy-shadow: rgba(2, 12, 27, 0.7);
 }
 

@@ -2,7 +2,7 @@ import "./Projects.css";
 import { useState } from "react";
 import ProjectCard from "../../components/ProjectCard/ProjectCard.jsx";
 import Button from "../../components/Button/Button.jsx";
-import projects from "../../assets/docs/projects.json";
+import projects from "../../data/projects.json";
 
 const Projects = () => {
   const [viewFull, setViewFull] = useState(false);

@@ -1,7 +1,7 @@
 import Button from "../../components/Button/Button.jsx";
 import "./Contact.css";
 import React from "react";
-import contactData from "../../assets/docs/contact.json";
+import contactData from "../../data/contact.json";
 
 const Contact = () => {
   return (
