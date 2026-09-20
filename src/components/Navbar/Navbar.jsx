@@ -9,22 +9,23 @@ import PropTypes from "prop-types";
 
 const Navbar = ({ menuMode, setMenuMode }) => {
   const [navbarClass, setNavbarClass] = useState("navbar");
-  const [lastScrollY, setLastScrollY] = useState(0);
   const navigate = useNavigate();
 
   useEffect(() => {
+    let lastScrollYValue = window.scrollY;
+
     const handleScroll = () => {
       const currentScrollY = window.scrollY;
 
       if (currentScrollY === 0) {
         setNavbarClass("navbar"); // Classe padrão no topo da página
-      } else if (currentScrollY > lastScrollY) {
+      } else if (currentScrollY > lastScrollYValue) {
         setNavbarClass("navbar navbar-hidden"); // Scroll para baixo
-      } else if (currentScrollY < lastScrollY && !menuMode) {
+      } else if (currentScrollY < lastScrollYValue && !menuMode) {
         setNavbarClass("navbar navbar-scrolled"); // Scroll para cima
       }
 
-      setLastScrollY(currentScrollY);
+      lastScrollYValue = currentScrollY;
     };
 
     window.addEventListener("scroll", handleScroll);
@@ -32,7 +33,7 @@ const Navbar = ({ menuMode, setMenuMode }) => {
     return () => {
       window.removeEventListener("scroll", handleScroll);
     };
-  }, [lastScrollY]);
+  }, [menuMode]);
 
   const links = [
     { id: 1, name: "About", section: "about" },

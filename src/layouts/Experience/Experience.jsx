@@ -5,10 +5,10 @@ import ExperiencePanel from "../../components/ExperiencePanel/ExperiencePanel";
 import ExperienceNav from "../../components/ExperienceNav/ExperienceNav";
 
 const Experience = () => {
-  const [selected, useSelected] = useState(0);
+  const [selected, setSelected] = useState(0);
 
   const ChangeSelected = (i) => {
-    useSelected(i);
+    setSelected(i);
   };
 
   return (

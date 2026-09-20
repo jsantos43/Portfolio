@@ -55,7 +55,7 @@ const FeaturedCard = ({ project, index }) => {
       <div className="featuredCard__image">
         <ImageOverlay
           href={project.externalLink}
-          src={project.img}
+          src={new URL(`../../assets/images/${project.img}`, import.meta.url).href}
           width="580px"
           height="360px"
         />
