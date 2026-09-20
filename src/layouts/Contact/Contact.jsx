@@ -10,10 +10,7 @@ const Contact = () => {
       <h2 className="contact__title">{contactData.title}</h2>
       <p>{contactData.text}</p>
 
-      <Button
-        text={contactData.buttonText}
-        href="mailto:joao.santos.2007sp@gmail.com"
-      />
+      <Button text={contactData.buttonText} href={contactData.link} />
     </section>
   );
 };

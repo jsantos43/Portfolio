@@ -1,7 +1,5 @@
 import "./Footer.css";
 
-import FavoriteIcon from "../../icons/FavoriteIcon.jsx";
-import BranchIcon from "../../icons/BranchIcon.jsx";
 import GithubIcon from "../../icons/GithubIcon.jsx";
 import InstagramIcon from "../../icons/InstagramIcon.jsx";
 import AluraIcon from "../../icons/AluraIcon.jsx";
@@ -62,21 +60,11 @@ const Footer = () => {
       <div className="footer__inner">
         <a
           className="footer__link"
-          href="https://github.com/JoaoSantos2007/Portfolio"
+          href="https://github.com/jsantos43/Portfolio"
           rel="noopener noreferrer"
           target="_blank"
         >
           <div>Developed by João Pedro Tomaz dos Santos</div>
-          <div className="footer__stats">
-            <span>
-              <FavoriteIcon />
-              <span>0</span>
-            </span>
-            <span>
-              <BranchIcon />
-              <span>0</span>
-            </span>
-          </div>
         </a>
       </div>
     </footer>
