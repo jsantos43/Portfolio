@@ -1,83 +1,97 @@
-# Portfolio - React
+# João Pedro's Portfolio
 
-Este repositório contém o código-fonte do meu portfólio desenvolvido em React. O portfólio foi criado para apresentar meus projetos, experiências e habilidades de forma profissional e interativa.
+A responsive personal portfolio built with React and Vite. It presents my background in computer science, selected work, professional experience, technical skills, certifications, and contact details in a focused single-page experience.
 
-## Tecnologias Utilizadas
+## Highlights
 
-- **React**: Biblioteca JavaScript para construção de interfaces de usuário.
-- **HTML5 e CSS3**: Estrutura e estilização da aplicação.
-- **JavaScript (ES6+)**: Lógica e funcionalidades dinâmicas.
-- **React Router**: Navegação entre as diferentes seções do portfólio.
+- Responsive layout with desktop and mobile navigation
+- Smooth scrolling between the About, Experience, Work, and Contact sections
+- Dedicated achievements page for courses and certificates
+- Project and experience content maintained in simple JSON data files
+- Downloadable resume and links to live projects, GitHub, LinkedIn, and other profiles
+- Subtle visual effects and custom typography
 
-## Estrutura do Projeto
+## Built with
 
-A estrutura principal do projeto está organizada da seguinte forma:
+- [React](https://react.dev/)
+- [Vite](https://vite.dev/)
+- [React Router](https://reactrouter.com/)
+- JavaScript (ES6+), HTML, and CSS
 
+## Getting started
+
+### Prerequisites
+
+- Node.js 18 or newer
+- npm
+
+### Installation
+
+```bash
+git clone https://github.com/jsantos43/portfolio.git
+cd portfolio
+npm install
 ```
-/src
-  |-- /animations     # Componentes Animados
-  |-- /assets         # Imagens e arquivos estáticos
-  |-- /components     # Componentes reutilizáveis
-  |-- /hooks          # Custom Hooks
-  |-- /icons          # Icones do site
-  |-- /layouts        # Seções principais do portfólio (Hero, Experience, About, Projects, etc.)
-  |-- App.jsx         # Componente raiz
-  |-- index.js        # Ponto de entrada do projeto
+
+### Run locally
+
+```bash
+npm run dev
 ```
 
-## Instalação e Execução
+The development server is configured to open at [http://localhost:3000](http://localhost:3000).
 
-Para executar o projeto localmente, siga os passos abaixo:
-
-1. Clone o repositório:
-
-   ```bash
-   git clone https://github.com/jsantos43/portfolio.git
-   ```
-
-2. Acesse o diretório do projeto:
-
-   ```bash
-   cd portfolio
-   ```
-
-3. Instale as dependências:
-
-   ```bash
-   npm install
-   ```
-
-4. Inicie o servidor de desenvolvimento:
-
-   ```bash
-   npm start
-   ```
-
-5. Abra o navegador em [http://localhost:3000](http://localhost:3000) para visualizar o projeto.
-
-## Build para Produção
-
-Para gerar a versão otimizada do portfólio, utilize o comando:
+### Production build
 
 ```bash
 npm run build
 ```
 
-Os arquivos serão gerados na pasta `/build` e podem ser servidos por qualquer servidor web.
+The optimized production files are generated in `dist/`. To preview that build locally:
 
-## Funcionalidades
+```bash
+npm run preview
+```
 
-- **Seções organizadas**: Apresentação pessoal, experiências, projetos e informações de contato.
-- **Responsividade**: Layout adaptado para diferentes tamanhos de tela.
+## Project structure
 
-## Contato
+```text
+src/
+├── animations/     # Reusable visual effects
+├── assets/         # Fonts, images, and global styles
+├── components/     # Shared interface components
+├── data/           # Portfolio content in JSON files
+├── hooks/          # Custom React hooks
+├── icons/          # SVG-based icon components
+├── layouts/        # Main portfolio sections
+├── pages/          # Routed pages, including achievements
+├── App.jsx         # Application shell and routes
+└── index.jsx       # Application entry point
 
-Caso tenha interesse em saber mais ou colaborar, entre em contato:
+public/
+├── certificates/   # Course certificates
+└── resume.pdf      # Downloadable resume
+```
 
-- **E-mail**: joao.santos.2007sp@gmail.com
-- **LinkedIn**: [Seu Perfil](https://www.linkedin.com/in/joaosantos2007/)
-- **GitHub**: [Seu Repositório](https://github.com/jsantos43)
+## Customizing the content
 
----
+Most portfolio copy is separated from the UI. Update the files in `src/data/` to change the hero introduction, bio, experience, featured work, project list, contact message, and certifications without editing the section components.
 
-Obrigado por visitar meu portfólio! Espero que goste. :smile:
+Images and fonts live in `src/assets/`; public files such as the resume and certificates belong in `public/`.
+
+## Available scripts
+
+| Command | Description |
+| --- | --- |
+| `npm run dev` | Starts the Vite development server. |
+| `npm start` | Alias for the development server. |
+| `npm run build` | Creates an optimized production build in `dist/`. |
+| `npm run preview` | Serves the production build locally. |
+
+## Contact
+
+Interested in working together? Feel free to reach out.
+
+- Email: [joao.santos.2007sp@gmail.com](mailto:joao.santos.2007sp@gmail.com)
+- LinkedIn: [joaosantos2007](https://www.linkedin.com/in/joaosantos2007/)
+- GitHub: [jsantos43](https://github.com/jsantos43)
