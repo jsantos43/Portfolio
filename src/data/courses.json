@@ -1,246 +1,232 @@
 [
   {
     "id": 1,
-    "name": "ARQUITETURA CSS: DESCOMPLICANDO OS PROBLEMAS",
+    "name": "CSS Architecture: Solving Common Problems",
     "school": "Alura",
     "year": 2023,
     "link": "/certificates/João Pedro Tomaz dos Santos - Curso Arquitetura CSS_ descomplicando os problemas - Alura.pdf"
   },
   {
     "id": 2,
-    "name": "BOOTSTRAP5: CRIE UMA LANDING PAGERESPONSIVA",
+    "name": "Bootstrap 5: Building Responsive Landing Pages",
     "school": "Alura",
     "year": 2023,
     "link": "/certificates/João Pedro Tomaz dos Santos - Curso Bootstrap5_ crie uma landing page responsiva - Alura.pdf"
   },
   {
     "id": 3,
-    "name": "C: AVANÇANDO NA LINGUAGEM",
+    "name": "C: Advancing in the Language",
     "school": "Alura",
     "year": 2023,
     "link": "/certificates/João Pedro Tomaz dos Santos - Curso C_ avançando na linguagem - Alura.pdf"
   },
   {
     "id": 4,
-    "name": "C: CONHECENDO A LINGUAGEM DAS LINGUAGENS",
+    "name": "C: An Introduction to Programming",
     "school": "Alura",
     "year": 2023,
     "link": "/certificates/João Pedro Tomaz dos Santos - Curso C_ conhecendo a Linguagem das Linguagens - Alura.pdf"
   },
   {
     "id": 5,
-    "name": "DOCKER: CRIANDO E GERENCIANDO CONTAINERS",
+    "name": "Docker: Creating and Managing Containers",
     "school": "Alura",
     "year": 2022,
     "link": "/certificates/João Pedro Tomaz dos Santos - Curso Docker_ criando e gerenciando containers - Alura.pdf"
   },
   {
     "id": 6,
-    "name": "FLEXBOX: POSICIONE ELEMENTOS NA TELA",
+    "name": "Flexbox: Positioning Elements on the Page",
     "school": "Alura",
     "year": 2022,
     "link": "/certificates/João Pedro Tomaz dos Santos - Curso Flexbox_ posicione elementos na tela - Alura.pdf"
   },
   {
     "id": 7,
-    "name": "GIT E GITHUB: REPOSITÓRIO, COMMIT EVERSÕES",
+    "name": "Git and GitHub: Repositories, Commits, and Version Control",
     "school": "Alura",
     "year": 2023,
     "link": "/certificates/João Pedro Tomaz dos Santos - Curso Git e GitHub_ repositório, commit e versões - Alura.pdf"
   },
   {
-    "id": 8,
-    "name": "ARQUITETURA CSS: DESCOMPLICANDO OS PROBLEMAS",
-    "school": "Alura",
-    "year": 2023,
-    "link": "/certificates/João Pedro Tomaz dos Santos - Curso Arquitetura CSS_ descomplicando os problemas - Alura.pdf"
-  },
-  {
     "id": 9,
-    "name": "HTML5 E CSS3 PARTE 1: CRIE UMA PÁGINADA WEB",
+    "name": "HTML & CSS: Building a Web Page",
     "school": "Alura",
     "year": 2021,
     "link": "/certificates/João Pedro Tomaz dos Santos - Curso HTML5 e CSS3 parte 1_ crie uma página da Web - Alura.pdf"
   },
   {
     "id": 10,
-    "name": "HTML5 E CSS3 PARTE 2: POSICIONAMENTO,LISTAS E NAVEGAÇÃO",
+    "name": "HTML & CSS: Positioning, Lists, and Navigation",
     "school": "Alura",
     "year": 2021,
     "link": "/certificates/João Pedro Tomaz dos Santos - Curso HTML5 e CSS3 parte 2_ posicionamento, listas e navegação - Alura.pdf"
   },
   {
     "id": 11,
-    "name": "HTML5 E CSS3 PARTE 3: TRABALHANDO COM FORMULÁRIOS E TABELAS",
+    "name": "HTML & CSS: Forms and Tables",
     "school": "Alura",
     "year": 2021,
     "link": "/certificates/João Pedro Tomaz dos Santos - Curso HTML5 e CSS3 parte 3_ trabalhando com formulários e tabelas - Alura.pdf"
   },
   {
     "id": 12,
-    "name": "HTML5 E CSS3 PARTE 4: AVANÇANDO NO CSS",
+    "name": "HTML & CSS: Advanced CSS",
     "school": "Alura",
     "year": 2021,
     "link": "/certificates/João Pedro Tomaz dos Santos - Curso HTML5 e CSS3 parte 4_ avançando no CSS - Alura.pdf"
   },
   {
     "id": 13,
-    "name": "JAVASCRIPT: INTERFACES E HERANÇA EM ORIENTAÇÃO A OBJETOS",
+    "name": "JavaScript: Interfaces and Inheritance in Object-Oriented Programming",
     "school": "Alura",
     "year": 2022,
     "link": "/certificates/João Pedro Tomaz dos Santos - Curso JavaScript_ interfaces e Herança em Orientação a Objetos - Alura.pdf"
   },
   {
     "id": 14,
-    "name": "JAVASCRIPT: PROGRAMANDO A ORIENTAÇÃO A OBJETOS",
+    "name": "JavaScript: Object-Oriented Programming",
     "school": "Alura",
     "year": 2022,
     "link": "/certificates/João Pedro Tomaz dos Santos - Curso JavaScript_ programando a Orientação a Objetos - Alura.pdf"
   },
   {
     "id": 15,
-    "name": "JQUERY: DOMINE A BIBLIOTECA MAIS POPULAR DO MERCADO PARTE 1",
+    "name": "jQuery: Mastering the Library, Part 1",
     "school": "Alura",
     "year": 2022,
     "link": "/certificates/João Pedro Tomaz dos Santos - Curso jQuery_ domine a biblioteca mais popular do mercado parte 1 - Alura.pdf"
   },
   {
     "id": 16,
-    "name": "LAYOUTS RESPONSIVOS: TRABALHANDO COM LAYOUTS MOBILE",
+    "name": "Responsive Layouts: Mobile-First Layouts",
     "school": "Alura",
     "year": 2022,
     "link": "/certificates/João Pedro Tomaz dos Santos - Curso Layouts Responsivos_ trabalhando com layouts mobile - Alura.pdf"
   },
   {
     "id": 17,
-    "name": "NGINX: SERVIDOR WEB, PROXY REVERSO EAPI GATEWAY",
+    "name": "Nginx: Web Server, Reverse Proxy, and API Gateway",
     "school": "Alura",
     "year": 2023,
     "link": "/certificates/João Pedro Tomaz dos Santos - Curso NGINX_ servidor Web, Proxy Reverso e API Gateway - Alura.pdf"
   },
   {
-    "id": 18,
-    "name": "ARQUITETURA CSS: DESCOMPLICANDO OS PROBLEMAS",
-    "school": "Alura",
-    "year": 2023,
-    "link": "/certificates/João Pedro Tomaz dos Santos - Curso Arquitetura CSS_ descomplicando os problemas - Alura.pdf"
-  },
-  {
     "id": 19,
-    "name": "NODE.JS: API REST COM EXPRESS E MONGODB",
+    "name": "Node.js: REST APIs with Express and MongoDB",
     "school": "Alura",
     "year": 2022,
     "link": "/certificates/João Pedro Tomaz dos Santos - Curso Node.js_ API Rest com Express e MongoDB - Alura.pdf"
   },
   {
     "id": 20,
-    "name": "NODE.JS: CRIPTOGRAFIA E TOKENS JWT",
+    "name": "Node.js: Cryptography and JWT Tokens",
     "school": "Alura",
     "year": 2022,
     "link": "/certificates/João Pedro Tomaz dos Santos - Curso Node.js_ criptografia e tokens JWT - Alura.pdf"
   },
   {
     "id": 21,
-    "name": "NODE.JS: LIDANDO COM BUSCAS, FILTROS, PAGINAÇÃO E ERROS EM UMA API",
+    "name": "Node.js: Search, Filters, Pagination, and Error Handling in APIs",
     "school": "Alura",
     "year": 2023,
     "link": "/certificates/João Pedro Tomaz dos Santos - Curso Node.js_ lidando com buscas, filtros, paginação e erros em uma API - Alura.pdf"
   },
   {
     "id": 22,
-    "name": "NODE.JS: REFRESH TOKENS E CONFIRMAÇÃO DE CADASTRO",
+    "name": "Node.js: Refresh Tokens and Account Confirmation",
     "school": "Alura",
     "year": 2023,
     "link": "/certificates/João Pedro Tomaz dos Santos - Curso Node.js_ Refresh Tokens e confirmação de cadastro - Alura.pdf"
   },
   {
     "id": 23,
-    "name": "NODE.JS: TESTES UNITÁRIOS E DE INTEGRAÇÃO",
+    "name": "Node.js: Unit and Integration Testing",
     "school": "Alura",
     "year": 2023,
     "link": "/certificates/João Pedro Tomaz dos Santos - Curso Node.js_ testes unitários e de integração - Alura.pdf"
   },
   {
     "id": 24,
-    "name": "ORM COM NODEJS: API COM SEQUELIZE EMYSQL",
+    "name": "ORM with Node.js: Building APIs with Sequelize and MySQL",
     "school": "Alura",
     "year": 2023,
-    "link": "/certificates/JJoão Pedro Tomaz dos Santos - Curso ORM com NodeJS_ API com Sequelize e MySQL - Alura.pdf"
+    "link": "/certificates/João Pedro Tomaz dos Santos - Curso ORM com NodeJS_ API com Sequelize e MySQL - Alura.pdf"
   },
   {
     "id": 25,
-    "name": "PYTHON: AVANÇANDO NA LINGUAGEM",
+    "name": "Python: Advancing in the Language",
     "school": "Alura",
     "year": 2023,
     "link": "/certificates/João Pedro Tomaz dos Santos - Curso Python_ avançando na linguagem - Alura.pdf"
   },
   {
     "id": 26,
-    "name": "PYTHON: COMEÇANDO COM A LINGUAGEM",
+    "name": "Python: Getting Started",
     "school": "Alura",
     "year": 2023,
     "link": "/certificates/João Pedro Tomaz dos Santos - Curso Python_ começando com a linguagem - Alura.pdf"
   },
   {
     "id": 27,
-    "name": "REACT ROUTER: NAVEGAÇÃO EM UMA SPA",
+    "name": "React Router: Navigation in a Single-Page Application",
     "school": "Alura",
     "year": 2022,
     "link": "/certificates/João Pedro Tomaz dos Santos - Curso React Router_ navegação em uma SPA - Alura.pdf"
   },
   {
     "id": 28,
-    "name": "REACT: DESENVOLVENDO COM JAVASCRIPT",
+    "name": "React: Developing with JavaScript",
     "school": "Alura",
     "year": 2022,
     "link": "/certificates/João Pedro Tomaz dos Santos - Curso React_ desenvolvendo com JavaScript - Alura.pdf"
   },
   {
     "id": 29,
-    "name": "REACT: ENTENDENDO COMO A BIBLIOTECA FUNCIONA",
+    "name": "React: Understanding How the Library Works",
     "school": "Alura",
     "year": 2022,
     "link": "/certificates/João Pedro Tomaz dos Santos - Curso React_ entendendo como a biblioteca funciona - Alura.pdf"
   },
   {
     "id": 30,
-    "name": "SHELL SCRIPTING PARTE 1: SCRIPTS DE AUTOMAÇÃO DE TAREFAS",
+    "name": "Shell Scripting: Task Automation",
     "school": "Alura",
     "year": 2023,
     "link": "/certificates/João Pedro Tomaz dos Santos - Curso Shell Scripting parte 1_ scripts de automação de tarefas - Alura.pdf"
   },
   {
     "id": 31,
-    "name": "SQL COM MYSQL: MANIPULE E CONSULTE DADOS",
+    "name": "SQL with MySQL: Querying and Manipulating Data",
     "school": "Alura",
     "year": 2022,
     "link": "/certificates/João Pedro Tomaz dos Santos - Curso SQL com MySQL_ manipule e consulte dados - Alura.pdf"
   },
   {
     "id": 32,
-    "name": "WEBPACK: TRABALHANDO COM MÓDULOSNA SUA WEBAPP",
+    "name": "Webpack: Working with Modules in Web Applications",
     "school": "Alura",
     "year": 2023,
-    "link": "/certificates/João Pedro Tomaz dos Santos - Curso Arquitetura CSS_ descomplicando os problemas - Alura.pdf"
+    "link": "/certificates/João Pedro Tomaz dos Santos - Curso Webpack_ trabalhando com módulos na sua webapp - Alura.pdf"
   },
   {
     "id": 33,
-    "name": "WEBSOCKETS: IMPLEMENTE AUTENTICAÇÃO E AVANCE NO SOCKET.IO",
+    "name": "WebSockets: Authentication and Advanced Socket.io",
     "school": "Alura",
     "year": 2023,
     "link": "/certificates/João Pedro Tomaz dos Santos - Curso WebSockets_ implemente autenticação e avance no Socket.IO - Alura.pdf"
   },
   {
     "id": 34,
-    "name": "WEBSOCKETS: IMPLEMENTE COMUNICAÇÕES EM TEMPO REAL COM SOCKET.IO E MONGODB",
+    "name": "WebSockets: Real-Time Communication with Socket.io and MongoDB",
     "school": "Alura",
     "year": 2023,
     "link": "/certificates/João Pedro Tomaz dos Santos - Curso WebSockets_ implemente comunicações em tempo real com Socket.IO e MongoDB - Alura.pdf"
   },
   {
     "id": 35,
-    "name": "WORKSHOP: Agentes de IA na Pesquisa Científica e Acadêmica",
-    "school": "",
+    "name": "Workshop: AI Agents in Scientific and Academic Research",
+    "school": "Academic Workshop",
     "year": 2026,
     "link": "/certificates/Agentes_IA _Pesquisa_Científica.pdf"
   }

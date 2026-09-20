@@ -15,6 +15,7 @@ const TableElement = ({ year, name, school, link, index }) => {
         <a
           className="TableElement__externalLink"
           href={link}
+          aria-label={`View certificate for ${name}`}
           rel="noopener noreferrer"
           target="_blank"
         >
