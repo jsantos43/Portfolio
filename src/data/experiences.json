@@ -5,10 +5,10 @@
     "devDate": "January 2025",
     "link": "https://nodecraft.mipi.com.br/",
     "texts": [
-      "NodeCraft is a powerful platform for managing Minecraft servers on Linux, featuring a Node.js API and a React-powered web interface. It simplifies server creation and management.",
-      "The intuitive web interface allows users to control server settings, monitor performance, and manage files seamlessly. The platform is designed for efficiency and ease of use.",
-      "With a focus on automation, NodeCraft streamlines the process of running and customizing Minecraft servers, making it accessible to all users.",
-      "This project demonstrates the integration of modern web technologies to create a robust and user-friendly server management solution."
+      "NodeCraft is a self-hosted, distributed game server hosting platform built entirely from scratch. Acting as a control plane for multiplayer games like Minecraft, Hytale, and Terraria, it orchestrates a fleet of worker machines to create, configure, and monitor servers through a single web interface.",
+      "The architecture consists of three independent services: a central Manager API that handles authentication, resource quotas, and scheduling; a React-powered Web Panel for users; and a distributed Worker fleet that runs actual game instances in fully isolated Docker containers.",
+      "NodeCraft features a real-time console streaming over WebSockets, a complete web-based file manager, and granular per-instance permissions. It also automates critical infrastructure tasks, such as running nightly scheduled backups to S3-compatible cloud storage.",
+      "This flagship project demonstrates my ability to engineer complex, highly scalable distributed systems. By bridging low-level container orchestration with a polished full-stack interface, NodeCraft showcases a robust, production-ready solution."
     ]
   },
   {
@@ -17,22 +17,10 @@
     "devDate": "November 2022",
     "link": "https://mipi.com.br/pizza/",
     "texts": [
-      "PedePizza is a modern and responsive website for ordering pizzas, built with HTML, CSS, JavaScript, and a Node.js REST API. It’s designed to offer a seamless and intuitive user experience across all devices.",
-      "Users can browse a menu of delicious pizzas, customize their orders, and add items to their cart. The website ensures a smooth process from selection to checkout, making it easy to place orders.",
-      "The backend, powered by Node.js and Express, handles order management and user interactions efficiently. Integration with MongoDB provides reliable data storage for user orders and preferences.",
-      "PedePizza combines functionality and design to create an engaging platform for pizza lovers, showcasing how web technologies can deliver both utility and enjoyment."
-    ]
-  },
-  {
-    "name": "SmartWiki",
-    "author": "João Santos",
-    "devDate": "March 2023",
-    "link": "https://mipi.com.br/smartwiki/",
-    "texts": [
-      "SmartWiki is a responsive platform built with HTML, CSS, JavaScript, and Bootstrap, focused on delivering information about smart cities and showcasing smart home products. Its design ensures accessibility across all devices.",
-      "Users can explore articles and guides on various topics related to smart cities, learning about innovative technologies and sustainable urban solutions. The platform also features a store with a wide range of smart home products.",
-      "With an intuitive interface, SmartWiki allows users to browse, search, and interact effortlessly. Features like wishlists and direct purchasing make the shopping experience convenient and enjoyable.",
-      "SmartWiki combines education and commerce, providing a unique hub for those interested in smart city innovations and smart home technologies."
+      "PedePizza is a modern, responsive e-commerce platform tailored for pizza delivery. Built with HTML, CSS, JavaScript, and a robust Node.js REST API, it delivers a seamless, cross-device user experience.",
+      "The frontend features an intuitive interface where users can dynamically browse menus, customize their orders with specific ingredients, and manage a real-time shopping cart through to a frictionless checkout process.",
+      "Under the hood, the backend is powered by Node.js and Express, ensuring fast and secure order management. It integrates deeply with MongoDB to handle persistent data storage for user preferences and order histories.",
+      "This project showcases my ability to design and implement end-to-end web applications, combining a highly interactive UI with a scalable backend architecture."
     ]
   },
   {
@@ -41,10 +29,22 @@
     "devDate": "January 2021",
     "link": "https://mipi.com.br/snake/",
     "texts": [
-      "WebSnake is a simple yet engaging Snake game built with HTML, CSS, and JavaScript. As a responsive website, it offers smooth gameplay across devices.",
-      "Players control the snake using arrow keys, collecting food to grow and increase their score. The game challenges users to avoid colliding with the snake's own body or the screen edges.",
-      "The intuitive design and real-time score tracking provide a fun and nostalgic gaming experience. WebSnake is a great demonstration of interactive web development.",
-      "This project showcases how basic web technologies can create an entertaining and functional browser-based game."
+      "WebSnake is a classic arcade Snake game reimagined for the browser, built entirely with vanilla HTML, CSS, and JavaScript, ensuring smooth performance across devices.",
+      "The custom game engine features real-time collision detection, dynamic growth mechanics, and application state management, providing players with an engaging and nostalgic experience.",
+      "An intuitive grid-based movement system and real-time score tracking were implemented to challenge users as the gameplay speed progressively increases.",
+      "This project demonstrates my strong grasp of core JavaScript logic, DOM manipulation, game loop fundamentals, and event handling without relying on external libraries."
+    ]
+  },
+  {
+    "name": "SmartWiki",
+    "author": "João Santos",
+    "devDate": "March 2023",
+    "link": "https://mipi.com.br/smartwiki/",
+    "texts": [
+      "SmartWiki is a hybrid informational and e-commerce platform focused on smart city innovations and IoT technologies, built with HTML, CSS, JavaScript, and Bootstrap.",
+      "The platform serves as an educational hub, allowing users to explore detailed articles and guides about sustainable urban solutions, while seamlessly integrating a storefront for related smart devices.",
+      "Designed with a mobile-first approach, it features an intuitive UI complete with dynamic search capabilities, custom wishlists, and a streamlined purchasing flow for an effortless shopping experience.",
+      "SmartWiki effectively merges educational content with a functional digital storefront, highlighting my skills in building accessible, feature-rich platforms using modern frontend frameworks."
     ]
   },
   {
